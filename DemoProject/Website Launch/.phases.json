@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "order": [
+    "To Do",
+    "In Progress",
+    "In Review",
+    "Done"
+  ],
+  "colors": {
+    "To Do": "#8b80f4",
+    "In Progress": "#e8ae57",
+    "In Review": "#4f8ac9",
+    "Done": "#54b99a"
+  },
+  "taskOrder": {
+    "To Do": [
+      "Define launch audience",
+      "Draft announcement email",
+      "Prepare social media posts"
+    ],
+    "In Progress": [
+      "Build landing page",
+      "Set up launch analytics"
+    ],
+    "In Review": [
+      "Review launch checklist",
+      "Proofread product screenshots"
+    ],
+    "Done": [
+      "Create project brief",
+      "Confirm release date"
+    ]
+  }
+}
